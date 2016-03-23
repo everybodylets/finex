@@ -110,11 +110,11 @@ header .navbar {
 
 .navbar-brand {
     color: #222;
-	text-transform: uppercase;
-    font-size: 24px;
+/*	text-transform: uppercase; */
+    font-size: 15px;
     font-weight: 700;
     line-height: 1em;
-	letter-spacing: -1px;
+	letter-spacing: 1px;
     margin-top: 30px;
     padding: 0 0 0 15px;
 }
@@ -246,7 +246,7 @@ header ul.nav li ul li a {
 
 
 .navbar .nav > li > a {
-  color: #111;
+  color: #3C6233;
   text-shadow: none;
 }
 

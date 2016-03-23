@@ -3,11 +3,13 @@
 a, a:hover,a:focus,a:active, footer a.text-link:hover, strike, .post-meta span a:hover, footer a.text-link, 
 ul.meta-post li a:hover, ul.cat li a:hover, ul.recent li h6 a:hover, ul.portfolio-categ li.active a, ul.portfolio-categ li.active a:hover, ul.portfolio-categ li a:hover,ul.related-post li h4 a:hover, span.highlight,article .post-heading h3 a:hover,
 .navbar .nav > .active > a,.navbar .nav > .active > a:hover,.navbar .nav > li > a:hover,.navbar .nav > li > a:focus,.navbar .nav > .active > a:focus, .validation  { 
-	color:#68A4C4;
+	color:#3C6233;
 }
 
 .navbar-brand span{
-    color: #68A4C4;
+    color: #3C6233;
+	margin-left: 50px;
+	font-style: italic;
 }
 
 header .nav li a:hover,
@@ -102,7 +104,7 @@ input:focus {
 /* cta */
 
 .cta-text h2 span {
-	color: #68A4C4;
+	color: #3C6233;
 }
 
 ul.clients li:hover {
